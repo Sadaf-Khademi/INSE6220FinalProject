@@ -1,1 +1,1 @@
-# INSE6220FinalProject
+# FinalProject
