@@ -1,2 +1,2 @@
 # Final Project of INSE6220
-Run the code in Google Colab
+Open the INSE6220FinalProject.ipynb in Google Colab
